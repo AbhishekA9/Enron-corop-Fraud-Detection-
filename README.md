@@ -1,4 +1,4 @@
-# Enron-corop-Fraud-Detection-
+# Enron-corp-Fraud-Detection-
 Fraud Detection from Enron Email Corpus
 This project tries to Identify people who may be involved in Enron Fraud.
 Here we are using machine learning techniques to predict if a person is involved in the fraud.
